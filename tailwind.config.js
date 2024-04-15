@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /** @type {import('tailwindcss').Config} */
+=======
+// /** @type {import('tailwindcss').Config} */ 
+>>>>>>> 1ff03d25850c724876436abfa089f976432ebe00
 module.exports = {
 	content: ['./*.html', './pages/*.html'],
 	theme: {
