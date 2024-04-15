@@ -20,6 +20,11 @@ module.exports = {
         colorEighth: '#E5E5E5',
       },
     },
+    backgroundImage: {
+      'bx-x': "url('/images/home/bx-x.svg')",
+      'bx-menu': "url('/images/home/bx-menu.svg')",
+      'homeBottom-secondBg': "url('/images/home/second-bg.png')",
+    }, 
     fontFamily:{
       roboto:["Roboto"]
     },
